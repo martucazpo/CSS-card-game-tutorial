@@ -17,7 +17,7 @@
 
 html {
     min-height: 100vh;
-    cursor: url("/assets/Cursors/Ghost.cur"), auto;
+    cursor: url("../Cursors/Ghost.cur"), auto;
 }
 
 body {
@@ -61,7 +61,7 @@ body {
 }
 
 .card:hover {
-    cursor: url("/assets/Cursors/GhostHover.cur"), auto;
+    cursor: url("../Cursors/GhostHover.cur"), auto;
 }
 
 .card-face {
